@@ -1,6 +1,8 @@
 ﻿string[] startArray = { "Hello", "my", "teacher", "!", ":-)" };
 PrintArray(startArray);
 string [] resultArray = CalculateArray(startArray);
+PrintArray(resultArray);
+
 
 void PrintArray(string[] arr)
 {
