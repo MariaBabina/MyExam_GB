@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyExam_GB/1.0.0": {
+        "runtime": {
+          "MyExam_GB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyExam_GB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\cources\GEEKBRAINS\MyExam_GB\bin\Debug\net7.0\MyExam_GB.exe
+D:\cources\GEEKBRAINS\MyExam_GB\bin\Debug\net7.0\MyExam_GB.deps.json
+D:\cources\GEEKBRAINS\MyExam_GB\bin\Debug\net7.0\MyExam_GB.runtimeconfig.json
+D:\cources\GEEKBRAINS\MyExam_GB\bin\Debug\net7.0\MyExam_GB.dll
+D:\cources\GEEKBRAINS\MyExam_GB\bin\Debug\net7.0\MyExam_GB.pdb
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\MyExam_GB.GeneratedMSBuildEditorConfig.editorconfig
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\MyExam_GB.AssemblyInfoInputs.cache
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\MyExam_GB.AssemblyInfo.cs
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\MyExam_GB.csproj.CoreCompileInputs.cache
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\MyExam_GB.dll
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\refint\MyExam_GB.dll
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\MyExam_GB.pdb
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\MyExam_GB.genruntimeconfig.cache
+D:\cources\GEEKBRAINS\MyExam_GB\obj\Debug\net7.0\ref\MyExam_GB.dll
